@@ -8,10 +8,14 @@
 ## Project Website
 https://yut-netizen.github.io/Spingame-Project/index.html
 ## Project Demo Video
+https://youtu.be/2gnisfzI47g
 ## Project Poster
-
+![575646834_1325962892364995_8481868797444096952_n](https://github.com/user-attachments/assets/7341a90c-b130-45ed-9c7c-8515b8d3c4e1)
 ## Member
 67070037 ชาญยุทธ เบญจพลากร
+
 67070038 ซัน โชคอนันต์
+
 67070059 ธนกฤต ศรีดาวเรือง
+
 67070091 นิธิโรจน์ สรรพธนวัฒน์
